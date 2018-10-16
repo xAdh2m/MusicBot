@@ -1,2 +1,0 @@
-# MusicBot
-AdhamTest
